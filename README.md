@@ -4,4 +4,4 @@ Hi, everyone!
 
 wenfang here, I like java. 
 
-Would you like come with me?
+Would you like to come with me to complete the journey?
