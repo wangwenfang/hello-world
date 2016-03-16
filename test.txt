@@ -1,3 +1,5 @@
 This is my first git project!
 
 I'm doing the test.
+
+You are welcome to join us.
